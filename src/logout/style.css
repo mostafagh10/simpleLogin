@@ -1,0 +1,18 @@
+#logoutone{
+    margin-top: 150px;
+    text-align: center;
+}
+.two{
+    width: 50%;
+    height: 40px;
+    background-color: white;
+}
+@media (max-width:767px){
+   .two{
+    width: 80%;
+   }
+   .logouttext{
+    font-size: 30px;
+    text-transform: capitalize;
+   }
+}
